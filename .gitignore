@@ -1,0 +1,38 @@
+# Machines virtuelles et images disque
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.iso
+
+# Images Cisco IOS (sous licence)
+*.image
+*.bin
+images/IOS/
+
+# Fichiers d'exécution GNS3 / Dynamips
+project-files/
+*_nvram
+*_bootflash
+*_disk0
+*_rom
+*_ssa
+*_slot0
+*_slot1
+*.log
+*_log.txt
+*_stdout.txt
+*.gns3.backup
+*.gns3project
+
+# Rapports PDF et archives
+*.pdf
+*.zip
+
+# Divers
+.DS_Store
+Thumbs.db
+desktop.ini
