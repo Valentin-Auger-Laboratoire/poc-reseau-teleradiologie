@@ -4,7 +4,7 @@
 
 Maquette GNS3 d'une infrastructure réseau multi-sites sécurisée pour une entreprise de téléradiologie : segmentation VLAN, routage OSPF, pare-feu stateful VyOS, DMZ applicative et zones Extranet.
 
-> **Projet de groupe de 4 (EPISEN, filière ITS), 2025-2026 – ma partie : conception et configuration du pare-feu VyOS et intégration des VM dans GNS3.**
+> **Projet de cours (EPISEN, filière ITS), 2025-2026.**
 
 ![Vue d'ensemble de la maquette GNS3](images/03-gns3-vue-ensemble.png)
 
@@ -195,7 +195,7 @@ Le fichier `.gns3` ne contient que la topologie. Les images IOS (sous licence) e
 
 GNS3 lab of a secure multi-site network for a teleradiology company: VLAN segmentation, OSPF routing, VyOS stateful firewall, application DMZ and Extranet zones.
 
-> **Group project of 4 (EPISEN engineering school, ITS track), 2025-2026 – my part: design and configuration of the VyOS firewall and integration of the VMs into GNS3.**
+> **Course project (EPISEN engineering school, ITS track), 2025-2026.**
 
 ### Context
 
